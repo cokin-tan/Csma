@@ -1,2 +1,2 @@
 # Csma
-This is a matrix resolution code
+This is CSharp matrix souce code project.
