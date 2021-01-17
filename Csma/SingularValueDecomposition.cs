@@ -63,7 +63,7 @@ namespace Csma
              * so let's not throw error.  Correct fix to come later?
              * if (m<n) 
              * {
-             * throw new ArgumentException("Jama SVD only works for m >= n"); 
+             * throw new ArgumentException("Csma SVD only works for m >= n"); 
              * }
              */
             int nu = Math.Min(_m, _n);
