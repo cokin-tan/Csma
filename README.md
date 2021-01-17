@@ -1,5 +1,5 @@
 # Csma
-It is from JAMA(Java Matrix Package),https://math.nist.gov/javanumerics/jama/
+It is from JAMA (Java Matrix Package),https://math.nist.gov/javanumerics/jama/
 
 Csma = CSharp Matrix class.
 <P>
